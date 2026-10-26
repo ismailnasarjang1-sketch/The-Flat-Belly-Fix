@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://the-flat-belly-fix.vercel.app/sitemap.xml
